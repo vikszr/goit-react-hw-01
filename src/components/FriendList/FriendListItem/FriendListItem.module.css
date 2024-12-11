@@ -1,0 +1,27 @@
+.friendListItem {
+  border: 1px solid black;
+  border-radius: 8px;
+  min-width: 100px;
+  min-height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 9px;
+}
+
+.friendPhoto {
+  margin-top: 5px;
+}
+
+.friendName {
+  font-size: 20px;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
